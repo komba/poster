@@ -5,5 +5,5 @@ source "https://rubygems.org"
 gemspec
 
 gem "rake", "~> 13.0"
-gem "faraday", "~> 2.14"
+gem "faraday", "~> 2.14.2"
 gem "minitest", "~> 6.0"
